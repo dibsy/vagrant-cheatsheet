@@ -7,9 +7,9 @@ vagrant up
 vagrant ssh
 $exit
 
-vagrant status - check status
+vagrant status - To check status
 vagrant suspend - To sleep
 vagrant halt - To shutdown
-vagrant destroy - destroy the system
+vagrant destroy - To destroy the virtual image
 
 ```
